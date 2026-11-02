@@ -21,7 +21,7 @@ Pocket Inquisition is free and open. If it keeps your group playing and you'd li
 - **Players:** download the latest [release](https://github.com/PocketInquisition/Launcher/releases), unzip it anywhere outside the game folder and run `launcher\DaiLauncher.exe`. The launcher's
   tour walks you through hosting or joining.
 - **Hosts:** the same download includes the server (`server\dai.exe`); Linux and Docker builds are on the releases page.
-- Also on [Nexus Mods](https://www.nexusmods.com/dragonageinquisition) (link to the mod page once published).
+- Also on [Nexus Mods](https://www.nexusmods.com/dragonageinquisition/mods/4679), where bugs are reported: the [Bugs tab](https://www.nexusmods.com/dragonageinquisition/mods/4679?tab=bugs).
 
 ## ⚙ What works
 
@@ -35,7 +35,7 @@ Pocket Inquisition is free and open. If it keeps your group playing and you'd li
 
 | Repository | What it is |
 |---|---|
-| [Launcher](https://github.com/PocketInquisition/Launcher) | the releases: the launcher, the in-game plugin and the server (Windows), and the Linux server; issues and the player README |
+| [Launcher](https://github.com/PocketInquisition/Launcher) | the releases: the launcher, the in-game plugin and the server (Windows), and the Linux server, and the player README (report bugs on [Nexus Mods](https://www.nexusmods.com/dragonageinquisition/mods/4679?tab=bugs), not here) |
 
 ## 🌐 EA / BioWare notice
 
